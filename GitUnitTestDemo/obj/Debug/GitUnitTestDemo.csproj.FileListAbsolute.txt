@@ -1,0 +1,8 @@
+D:\Git\Repository\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.exe.config
+D:\Git\Repository\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.exe
+D:\Git\Repository\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.pdb
+D:\Git\Repository\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.AssemblyReference.cache
+D:\Git\Repository\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.SuggestedBindingRedirects.cache
+D:\Git\Repository\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.CoreCompileInputs.cache
+D:\Git\Repository\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.exe
+D:\Git\Repository\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.pdb
